@@ -1,6 +1,7 @@
 # remove-bg
 
 Demo    : https://remove-bg-frontend.herokuapp.com/
+Update Frontend: https://github.com/fauziafifnevandi/rbg-react
 
 Sample
 ![bird](https://user-images.githubusercontent.com/40476170/199558818-1d03591b-0cdf-47c6-9449-8a892860c612.jpg)
